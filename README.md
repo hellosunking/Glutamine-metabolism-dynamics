@@ -1,4 +1,4 @@
-### Codes and programs used in Hu et al.
+### Codes and programs used in [Hu and Wang et al. The Innovation Life 2025](https://doi.org/10.59717/j.xinn-life.2024.100128 "Hu et al. paper").
 
 ---
 
